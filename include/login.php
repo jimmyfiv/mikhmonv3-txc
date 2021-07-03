@@ -43,7 +43,7 @@ session_start();
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css1/bootstrap.min.css">
     <!-- Site CSS -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css1/style.css">
     <!-- Colors CSS -->
     <link rel="stylesheet" href="css1/colors.css">
     <!-- ALL VERSION CSS -->
