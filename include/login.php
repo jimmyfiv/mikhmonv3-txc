@@ -128,7 +128,7 @@ session_start();
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a class="active" href="login.php">Home</a></li>
+                        <li><a class="active" href="#">Home</a></li>
                         <li><a href="http://lg.thunderxcloud.net">Looking Glass</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
