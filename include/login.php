@@ -37,24 +37,24 @@ session_start();
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../css1/bootstrap.min.css">
+    <link rel="stylesheet" href="css1/bootstrap.min.css">
     <!-- Site CSS -->
-    <link rel="stylesheet" href="../css1/style.css">
+    <link rel="stylesheet" href="css1/style.css">
     <!-- Colors CSS -->
-    <link rel="stylesheet" href="../css1/colors.css">
+    <link rel="stylesheet" href="css1/colors.css">
     <!-- ALL VERSION CSS -->
-    <link rel="stylesheet" href="../css1/versions.css">
+    <link rel="stylesheet" href="css1/versions.css">
     <!-- Responsive CSS -->
-    <link rel="stylesheet" href="../css1/responsive.css">
+    <link rel="stylesheet" href="css1/responsive.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="../css1/custom.css">
+    <link rel="stylesheet" href="css1/custom.css">
 
     <!-- Modernizer for Portfolio -->
-    <script src="../js1/modernizer.js"></script>
+    <script src="js1/modernizer.js"></script>
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -654,9 +654,9 @@ session_start();
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->
-    <script src="../js1/all.js"></script>
+    <script src="js1/all.js"></script>
     <!-- ALL PLUGINS -->
-    <script src="../js1/custom.js"></script>
+    <script src="js1/custom.js"></script>
 
 </body>
 </html>
