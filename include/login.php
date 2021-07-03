@@ -149,11 +149,11 @@ session_start();
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="login.php"><img src="../images/logos/tc-logo.png" alt="image"></a>
+                    <a class="navbar-brand" href="login.php"><img src="images/logos/tc-logo.png" alt="image"></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a class="active" href="include/login.php">Home</a></li>
+                        <li><a class="active" href="login.php">Home</a></li>
                         <li><a href="http://lg.thunderxcloud.net">Looking Glass</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
@@ -178,7 +178,7 @@ session_start();
 						<div class="row">
 							<div class="col-md-12 col-sm-12 text-center">
 								<div class="big-tagline">
-									<img src="../images/logos/tc-logo.png" alt="image">
+									<img src="images/logos/tc-logo.png" alt="image">
 									<h2 data-animation="animated zoomInRight">Best <strong>Shared Hosting</strong> Company</h2>
 									<p class="lead" data-animation="animated fadeInLeft">With Thunder X Cloud, you can promote your all hosting, domain and email services. </p>
 									 <a data-scroll href="#pricing" class="btn btn-light btn-radius btn-brd effect-1 slide-btn" data-animation="animated fadeInLeft">View Plans</a>
@@ -196,7 +196,7 @@ session_start();
 						<div class="row">
 							<div class="col-md-12 col-sm-12 text-center">
 								<div class="big-tagline">
-									<img src="../images/logos/tc-logo.png" alt="image">
+									<img src="images/logos/tc-logo.png" alt="image">
 									<h2 data-animation="animated zoomInRight">Find the right <strong>Hosting</strong></h2>
 									<p class="lead" data-animation="animated fadeInLeft">With Thunder X Cloud, you can promote your all hosting, domain and email services. </p>
 									 <a data-scroll href="#pricing" class="btn btn-light btn-radius btn-brd effect-1 slide-btn" data-animation="animated fadeInLeft">View Plans</a>
@@ -214,7 +214,7 @@ session_start();
 						<div class="row">
 							<div class="col-md-12 col-sm-12 text-center">
 								<div class="big-tagline">
-									<img src="../images/logos/tc-logo.png" alt="image">
+									<img src="images/logos/tc-logo.png" alt="image">
 									<h2 data-animation="animated zoomInRight">Best <strong>VPS Servers</strong> Company</h2>
 									<p class="lead" data-animation="animated fadeInLeft">1 IP included with each server (more on request to justification)
 										Your Choice of any OS (CentOS, Windows, Debian, Fedora)
@@ -584,7 +584,7 @@ session_start();
     </div><!-- end section -->
 
     <section class="section nopad cac text-center">
-        <a href="#"><br><img src="../images/logos/tc-logo-light.png" alt="Thunder X Cloud"><br><br>
+        <a href="#"><br><img src="images/logos/tc-logo-light.png" alt="Thunder X Cloud"><br><br>
     </section>
 
     <footer class="footer">
@@ -593,7 +593,7 @@ session_start();
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <img src="../images/logos/tc-logo-light.png" alt="Thunder X Cloud">
+                            <img src="images/logos/tc-logo-light.png" alt="Thunder X Cloud">
                         </div>
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
