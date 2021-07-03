@@ -53,14 +53,6 @@ session_start();
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css1/custom.css">
 
-    <!-- Modernizer for Portfolio -->
-    <script src="js1/modernizer.js"></script>
-
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
 </head>
 <body class="host_version"> 
 
@@ -652,11 +644,6 @@ session_start();
 
 
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
-
-    <!-- ALL JS FILES -->
-    <script src="js1/all.js"></script>
-    <!-- ALL PLUGINS -->
-    <script src="js1/custom.js"></script>
 
 </body>
 </html>
