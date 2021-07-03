@@ -36,23 +36,6 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <!-- Site Icons -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css1/bootstrap.min.css">
-    <!-- Site CSS -->
-    <link rel="stylesheet" href="style.css">
-    <!-- Colors CSS -->
-    <link rel="stylesheet" href="css1/colors.css">
-    <!-- ALL VERSION CSS -->
-    <link rel="stylesheet" href="css1/versions.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" href="css1/responsive.css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css1/custom.css">
-
 </head>
 <body class="host_version"> 
 
