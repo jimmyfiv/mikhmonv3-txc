@@ -179,36 +179,6 @@ if ($id == "login" || substr($url, -1) == "p") {
 ?>
 <script src="js/mikhmon-ui.<?= $theme; ?>.min.js"></script>
 <script src="js/mikhmon.js?t=<?= str_replace(" ","_",date("Y-m-d H:i:s")); ?>"></script>
-
-<!-- Modernizer for Portfolio -->
-<script src="js1/modernizer.js"></script>
-<!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-<![endif]-->
-<!-- ALL JS FILES -->
-<script src="js1/all.js"></script>
-<!-- ALL PLUGINS -->
-<script src="js1/custom.js"></script>
-
-    <!-- Site Icons -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css1/bootstrap.min.css">
-    <!-- Site CSS -->
-    <link rel="stylesheet" href="style.css">
-    <!-- Colors CSS -->
-    <link rel="stylesheet" href="css1/colors.css">
-    <!-- ALL VERSION CSS -->
-    <link rel="stylesheet" href="css1/versions.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" href="css1/responsive.css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css1/custom.css">
-
-
 <?php include('./include/info.php'); ?>
 </body>
 </html>
